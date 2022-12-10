@@ -1,32 +1,35 @@
 <template>
-  <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view/>
-  </div>
+  <v-app :class="{ 'arabic-font': !$isEn }">
+    <AppHeader />
+    <v-main v-if="true">
+      <router-view />
+    </v-main>
+    <!-- <v-sheet color="error" height="500px"></v-sheet> -->
+    <AppFooter />
+  </v-app>
 </template>
 
+<script>
+import AppHeader from "@/components/Apps/Header";
+import AppFooter from "@/components/Apps/Footer";
+export default {
+  name: "App",
+  components: {
+    AppHeader,
+    AppFooter,
+  },
+  data: () => ({
+    //
+  }),
+};
+</script>
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
+$font: "Cairo";
+.arabic-font {
+  // font-family: "Noto Sans Arabic", sans-serif !important;
+  font-family: $font, sans-serif !important;
+  * {
+    font-family: $font, sans-serif !important;
   }
 }
 </style>

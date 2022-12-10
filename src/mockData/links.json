@@ -1,0 +1,61 @@
+[
+  {
+    "title": "About Us"
+  },
+  {
+    "title": "Our Services"
+  },
+  {
+    "title": "Courses",
+    "isMenu": true,
+    "list": [
+      {
+        "title": "beginners guide"
+      },
+      {
+        "title": "advanced guide"
+      },
+      {
+        "title": "expert's guide"
+      },
+      {
+        "title": "cryptocurrencies guide"
+      },
+      {
+        "title": "platform tutorials"
+      },
+      {
+        "title": "glossary"
+      }
+    ]
+  },
+  {
+    "title": "Knowledge Center",
+    "isMenu": true,
+    "hasSub": true,
+    "list": [
+      {
+        "title": "market reserch",
+        "sub": [
+          "technical analysis videos",
+          "technical analysis articles",
+          "financial news"
+        ]
+      },
+      {
+        "title": "trading tools",
+        "sub": ["Trading Signals", "Economic Calendar", "Crypto Calendar"]
+      },
+      {
+        "title": "trading books",
+        "sub": ["Beginner’s Guide", "Advanced Guide", "Cryptocurrencies"]
+      }
+    ]
+  },
+  {
+    "title": "Packages"
+  },
+  {
+    "title": "Partners"
+  }
+]

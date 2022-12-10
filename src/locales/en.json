@@ -1,0 +1,284 @@
+{
+  "btn": "join now",
+  "message": {
+    "auth": {
+      "login": "login",
+      "register": "regsiter",
+      "logout": "logout"
+    },
+    "hello": "Hello world",
+    "header": [
+      "About Us",
+      "Our Services",
+      "Courses",
+      "Knowledge Center",
+      "packages",
+      "partners"
+    ],
+    "headerLinks": [
+      {
+        "title": "About Us"
+      },
+      {
+        "title": "Our Services"
+      },
+      {
+        "title": "Courses",
+        "isMenu": true,
+        "list": [
+          {
+            "title": "beginners guide"
+          },
+          {
+            "title": "advanced guide"
+          },
+          {
+            "title": "expert's guide"
+          },
+          {
+            "title": "cryptocurrencies guide"
+          },
+          {
+            "title": "platform tutorials"
+          },
+          {
+            "title": "glossary"
+          }
+        ]
+      },
+      {
+        "title": "Knowledge Center",
+        "isMenu": true,
+        "hasSub": true,
+        "list": [
+          {
+            "title": "market reserch",
+            "sub": [
+              "technical analysis videos",
+              "technical analysis articles",
+              "financial news"
+            ]
+          },
+          {
+            "title": "trading tools",
+            "sub": ["Trading Signals", "Economic Calendar", "Crypto Calendar"]
+          },
+          {
+            "title": "trading books",
+            "sub": ["Beginner’s Guide", "Advanced Guide", "Cryptocurrencies"]
+          }
+        ]
+      },
+      {
+        "title": "Packages"
+      },
+      {
+        "title": "Partners"
+      }
+    ]
+  },
+  "landing": {
+    "head": "Knowledge is power!",
+    "subHead": "Learn how to make smart trading decisions",
+    "subtitle": "Take the rich educational content in Traders Academy for your advantage and enter the investment world with steady steps.",
+    "btn": "learn now"
+  },
+  "circles": [
+    { "title": "800+", "text": "graduates" },
+    { "title": "87%", "text": "success rate" },
+    {
+      "title": "50%",
+      "text": "of graduates work in the financial industry",
+      "hasLargeText": true
+    }
+  ],
+  "section-2": {
+    "head": "Smart investors are made smarter",
+    "subhead": "with Traders Academy",
+    "subtitle": "Knowledge is your most valuable asset! That’s why we built a one-of-its kind online academy designed to help you grow as an investor with content tailored to your own personal investing goals and needs. Traders Academy is proud to positively impact plenty of trader’s performances in the markets.",
+    "btn": "join now"
+  },
+  "section-3": {
+    "head": "Discover Traders Academy",
+    "subhead": "Why Choose Traders Academy?",
+    "subtitle": "Traders Academy is the most comprehensive and accessible resource available to today’s online traders. Learn about how markets behave and react, while discovering how a trader’s behavior and reactions are just as important to successful trading."
+  },
+  "section3Circles": [
+    {
+      "title": "30+",
+      "text": "Academy<br />Courses"
+    },
+    {
+      "title": "87%",
+      "text": "Success<br />Rate"
+    },
+    {
+      "title": "42+",
+      "text": "Strategies<br />and tools"
+    }
+  ],
+  "section-4": {
+    "head": "What they say about us",
+    "subhead": "Our users success speaks for itself",
+    "subtitle": "Our users success speaks for itself Traders Academy has helped hundreds of novice and experienced traders to hone their skills and take their trades to the next level. With us you will learn new strategies, gain confidence and discipline and get a deeper understanding of technical analysis. Traders Academy will accompany you through your investment journey to help you achieve your goals."
+  },
+  "section4Carousel": [
+    {
+      "img": "avatar-1",
+      "personName": "Muhsin Al Jafali",
+      "country": "Saudi Arabia",
+      "text": "I always used to trade based on my knowledge of world news and events. However, since learning technical analysis and how to read charts properly, I have made successful trades I would never have dreamed of before. "
+    },
+    {
+      "img": "avatar-2",
+      "personName": "Haitham Al Tamimi ",
+      "country": "Emirates",
+      "text": "I always used to trade based on my knowledge of world news and events. However, since learning technical analysis and how to read charts properly, I have made successful trades I would never have dreamed of before. "
+    },
+    {
+      "img": "avatar-3",
+      "personName": "Muhsin Al Jafali ",
+      "country": "Saudi Arabia",
+      "text": "I always used to trade based on my knowledge of world news and events. However, since learning technical analysis and how to read charts properly, I have made successful trades I would never have dreamed of before. "
+    },
+    {
+      "img": "avatar-4",
+      "personName": "Aysha Alsdiri",
+      "country": "Saudi Arabia",
+      "text": "I always used to trade based on my knowledge of world news and events. However, since learning technical analysis and how to read charts properly, I have made successful trades I would never have dreamed of before. "
+    },
+    {
+      "img": "avatar-1",
+      "personName": "Muhsin Al Jafali",
+      "country": "Saudi Arabia",
+      "text": "I always used to trade based on my knowledge of world news and events. However, since learning technical analysis and how to read charts properly, I have made successful trades I would never have dreamed of before. "
+    },
+    {
+      "img": "avatar-2",
+      "personName": "Haitham Al Tamimi ",
+      "country": "Emirates",
+      "text": "I always used to trade based on my knowledge of world news and events. However, since learning technical analysis and how to read charts properly, I have made successful trades I would never have dreamed of before. "
+    }
+  ],
+  "section-5": {
+    "head": "Timely educational resouces",
+    "subhead": "for every type of investor",
+    "btn": "join now"
+  },
+  "section5Items": [
+    {
+      "title": "Academy courses",
+      "text": "Choose the courses that best suit your trading experience and goals from a wide range of educational courses and learn to trade from scratch",
+      "img": 1
+    },
+    {
+      "title": "Fundamental Analysis",
+      "text": "find out how news and financial announcements influence market trends",
+      "img": 2
+    },
+    {
+      "title": "Training sessions",
+      "text": "Get comprehensive training to understand how the markets work, improve your trading skills and seize the opportunities",
+      "img": 3
+    },
+    {
+      "title": "Technical analysis",
+      "text": "Learn more about charts and tools to better understand the market movements",
+      "img": 4
+    },
+    {
+      "title": "Trading strategies",
+      "text": "Learn trading strategies that have been tested and developed by market experts",
+      "img": 5
+    },
+    {
+      "title": "Trading signals",
+      "text": "earn how the changing market conditions can indicate the right time to enter or exit the market",
+      "img": 6
+    }
+  ],
+  "section-6": {
+    "head": "Enter the market with",
+    "subhead": "the right broker by your side",
+    "subtitle": "Traders Academy has proudly partnered with Axia Trade, the award winning broker, to give you an exceptional trading experience. Being a member of Traders Academy will instantly grant you a demo account with Axia Trade and 5 free articles for beginners to get you started."
+  },
+  "section-7": {
+    "head": "Our Courses",
+    "subhead": "Learn more about our courses",
+    "subtitle": "Stay in the know about investing, from how to get started, to potential opportunities, to the vast world of financial assets.",
+    "items": [
+      {
+        "title": "Basics of Trading",
+        "text": "The key to successful trading is understanding the basic ideas and principles behind the trading strategies and techniques"
+      },
+      {
+        "title": "Advanced strategies",
+        "text": "We’ll cover strategies intended to generate income in the portfolio, buy a stock at a desired price and manage risks"
+      },
+      {
+        "title": "Advanced tools",
+        "text": "Professional traders can handle the market’s volatility with the right trading tools"
+      }
+    ],
+    "btn": "academy courses"
+  },
+  "section-8": {
+    "head": "Get in touch",
+    "subhead": "We’re always available for your help.",
+    "subtitle": "Contact us should you have any questions or queries and we’ll get back to you ASAP. Don’t forget to let us know how you’re getting on with your trading education.",
+    "items": [
+      {
+        "icon": "mdi-map-marker",
+        "title": "Physical address",
+        "text": "Global Village, Jivan’s Complex, Mont Fleuri, Mahe, Seychelles"
+      },
+      {
+        "icon": "mdi-phone",
+        "title": "Phone number",
+        "text": "+351 21 1452468"
+      },
+      {
+        "icon": "mdi-email",
+        "title": "Email address",
+        "text": "info@traders-academy.net"
+      },
+      {
+        "icon": "mdi-information",
+        "title": "Work hours",
+        "text": "Mon – Sat: 9 am – 7 pm, Sunday: CLOSED"
+      }
+    ],
+    "fields": [
+      {
+        "label": "First Name",
+        "state": ""
+      },
+      {
+        "label": "Last Name",
+        "state": ""
+      },
+      {
+        "label": "E-mail",
+        "state": ""
+      },
+      {
+        "label": "Phone Number",
+        "state": ""
+      },
+      {
+        "label": "I have read and agreed to the <span class='text-decoration-underline white--text'>Terms and conditions</span>",
+        "state": "",
+        "checkBox": true
+      }
+    ],
+    "btn": "contact us"
+  },
+  "section-9": {
+    "head": "Risk Disclaimer",
+    "subtitle": "Traders Academy is an investment training academy. We offer specialized courses focused on a range of investing subjects, asset classes, and strategies. At Traders Academy, we specialize in providing investing courses for both inexperienced beginners and experienced traders. <br /> <br /> Traders Academy is simply an educational service and all materials are expressly designed to educate and should in no way be construed as investment advice or guidance. Trading is risky, and investors should not invest more than they can afford to lose. Before trading, make sure you understand the accompanying and associated risks. <br /> <br /> The information contained within this website is not intended for anyone claiming United States residency and citizenship, nor is it intended for use by any person(s) in any country or jurisdiction where such use would be in direct violation or contravention of local regulations and laws. <br /> <br /> Traders Academy is owned and operated by Deloce LTD which is a company organized under the laws of Cyprus, company No. 417226."
+  },
+  "footer": {
+    "head": "All rights reserved by",
+    "subhead": "Traders Academy"
+  }
+}
