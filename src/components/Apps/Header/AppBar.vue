@@ -1,8 +1,8 @@
 <template>
   <v-app-bar app elevate-on-scroll class="section-bg v-box-shadow">
     <!-- title -->
-    <!-- :class="[!$isEn ? 'ml-5' : 'mr-5']" -->
     <v-toolbar-title
+    :class="[!$ar ? 'mr-lg-5' : 'ml-lg-5']"
       class="cursor-pointer"
       @click="MX_redirectTo(`/${$i18n.locale}`)"
     >

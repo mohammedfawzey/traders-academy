@@ -41,10 +41,10 @@
           class="register d-lg-none d-flex align-center justify-center flex-column"
         >
           <v-btn block color="main" dark outlined>
-            <span class="text-capitalize">Login</span>
+            <span class="text-capitalize">{{ $t("message.auth.login") }}</span>
           </v-btn>
           <v-btn block color="main" class="mt-3" depressed dark>
-            <span class="text-capitalize">Register</span>
+            <span class="text-capitalize">{{ $t("message.auth.register") }}</span>
           </v-btn>
           <v-btn v-if="false" color="main" outlined rounded>
             <span class="text-capitalize">logout</span>
